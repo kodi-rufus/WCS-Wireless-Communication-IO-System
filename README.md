@@ -1,42 +1,58 @@
-WCS – Wireless Communication I/O Transfer System
 
-Project Overview
+# WCS – Wireless Communication I/O Transfer System
 
-The Wireless Communication I/O Transfer System (WCS) provides industrial wireless communication for transferring input and output signals between remote locations.
+## Project Gallery
 
-I gained hands-on industrial exposure to this system during my six-month diploma internship at Lotus Wireless, working in the presence and under the guidance of an industry professional.
+![WCS Project Photo 1](IMG20261113102846.jpg)
 
-Areas of Exposure
+![WCS Project Photo 2](IMG20261113102920.jpg)
+
+---
+
+## Project Overview
+
+The Wireless Communication I/O Transfer System (WCS) is an industrial communication system designed to transfer input and output signals between remote locations through wireless communication.
+
+I gained hands-on industrial exposure to this system during my six-month diploma internship at **Lotus Wireless**, working in the presence and under the guidance of an industry professional.
+
+## Areas of Exposure
 
 - Serial and Ethernet-based Radio Modems
-- LRS5100 configuration
-- Point-to-multipoint communication
+- LRS5100 Configuration
+- Point-to-Point and Point-to-Multipoint Communication
 - Remote Terminal Units (RTUs)
-- SCADA communication
+- SCADA Communication
 - FATEK FBS Series PLC
 - Digital Inputs and Outputs
-- WinPro Ladder software
-- PCB types, SMT, soldering and testing
+- WinPro Ladder Software
+- PCB Types, SMT, Soldering and Testing
 
-My Role
+## My Role and Experience
 
-- Observed and participated in industrial project activities under professional guidance.
-- Gained hands-on exposure to wireless communication equipment and industrial automation systems.
-- Explored RTUs, PLCs, radio modems and I/O transfer concepts.
+- Participated in industrial project activities under professional guidance.
+- Gained hands-on exposure to wireless communication equipment.
+- Observed and explored RTUs, PLCs, radio modems and I/O transfer systems.
+- Learned about industrial communication and automation workflows.
 
-Learning Outcomes
+## Key Learning Outcomes
 
-- Industrial wireless communication
-- PLC and RTU fundamentals
-- SCADA concepts
-- Industrial automation and hardware exposure
-- PCB assembly and testing fundamentals
+- Industrial Wireless Communication
+- PLC and RTU Fundamentals
+- SCADA Concepts
+- Industrial Automation
+- Hardware Interfacing
+- PCB Assembly and Testing Fundamentals
 
-Project Details
+## Project Details
 
-- Organisation: Lotus Wireless
-- Duration: Six months
-- Context: Diploma final-semester industrial internship
-- Project Type: Industrial hands-on exposure and learning
+| Category | Details |
+|---|---|
+| Organisation | Lotus Wireless |
+| Duration | Six Months |
+| Context | Diploma Final-Semester Internship |
+| Project Type | Industrial Hands-on Exposure |
+| Domain | Industrial Communication and Automation |
 
-This repository contains project documentation and photographs. It does not contain source code.
+---
+
+**Note:** This repository contains project documentation and photographs. It does not contain source code.
